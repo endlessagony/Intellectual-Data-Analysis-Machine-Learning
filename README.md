@@ -8,3 +8,4 @@
 ![Numpy](https://img.shields.io/badge/Numpy-1.20.3-blueviolet)
 ![CatBoost](https://img.shields.io/badge/CatBoost-0.26.1-blue)
 ## Course by Higher School of Economics
+In this course, we learn the basic principles of machine learning.
